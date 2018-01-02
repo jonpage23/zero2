@@ -1,7 +1,7 @@
 ---
 title: "Getting Started part 2"
 categories:
-  - GBS Zero
+  - Zero
 tags:
   - MX5
   - engine
@@ -25,10 +25,10 @@ All hub nuts were very tight which has to be good news, but all came off with li
 
 With the hub nuts off it’s on to removing the hubs. According to the manual you just undo the nuts and “slip off the hubs”. This worked for both front hubs and the rear left, a good start but the rear right was not so accommodating. Memories of the hours spent freeing bolts during the last workshop session still in my mind, this hub was making that look easy. No matter how much levering it and whacking with all the hammers in the workshop (the end of the CV joint now has a flattened end that I don’t know what I am going to do about) that thing was ON THERE with no intention of going anywhere. It’s still there now as I write this. I hate leaving a job unfinished. I think it’s going to have to go to a garage and someone who knows what they are doing. Whilst this is simply all part of the deal when building this type of kit car, but it has taken a bit of the fun out of project so far.
 
-![Mazda MX-5]({{ site.url }}/images/hub.jpg)
+![Mazda MX-5]({{ site.url }}{{ site.baseurl }}/images/hub.jpg)
 
 Moving on I removed the steering column after, and very gingerly, taking the airbag out of the wheel. I’m pretty sure these things can’t go off without the battery connected but I’m not taking any chances. I also need the brake and clutch master cylinders which meant some uncomfortable upside down working in the driver side foot well to release the fastenings and label the wiring as I took it off the peddles. Although a little awkward to reach some of the bolts, all the parts came off with little argument and appear to be in good condition. Lastly I took out the passenger seat, I’d already removed the drivers, which will give a little more room to access the electrics in the passenger foot well.
 
-![Mazda MX-5]({{ site.url }}/images/interior.jpg)
+![Mazda MX-5]({{ site.url }}{{ site.baseurl }}/images/interior.jpg)
 
 While I have got done almost everything I wanted to do on this visit, it's taken longer than I wanted and I think any future projects will be unlikely to involve taking apart 17 year old Japanese sports cars…

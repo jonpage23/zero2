@@ -1,7 +1,7 @@
 ---
 title: "Factory visit and test drive"
 categories:
-  - GBS Zero
+  - Zero
 tags:
   - factory
   - test drive
@@ -13,7 +13,7 @@ The GBS factory is some three and a half hours drive from my home in Southampton
 
 Arriving at the factory and the first sight of the car wasn't exactly what I had expected or hoped for. It seems that, during a recent track day, someone forgot to administer oil to the gearbox, which lead to the subsequent demise of said gearbox, and a very hot engine. As such the demo car was propped up on stands with the engine and a new gearbox being worked on next to it. I can't fault the GBS team for commitment here, and having said I could have a test drive that day, a test drive was exactly what they were going to provide me with, which meant fixing and refitting the engine and a new gearbox. I busied myself taking pictures of the fuel systems (next job on my car) in the cars in the workshop, and making notes of the positions of various parts and ways to fit them etc. while Keith and Rafael worked on the engine and gearbox.
 
-![Mazda MX-5]({{ site.url }}{{ site.baseurl }}/images/GBS-Workshop1.jpg)
+![GBS Workshop]({{ site.url }}{{ site.baseurl }}/images/GBS-Workshop1.jpg)
 
 By lunchtime the engine was back in the car leaving what looked like the fairly simple job of reconnecting the water, fuel and electrics. Should be going in no time... However, a problem with the IAC meant an hour or so with a laptop working on the Emerald ECU. By this time the car was being worked on by 3 people - Richard, Keith, and Rafael, resembling a scene from a pit lane just before the race. Richard even put off another job to get the car running. By mid afternoon the car was back together and filling the workshop with exhaust fumes. Lovely.
 
@@ -25,7 +25,7 @@ Along with the engine mapping, I know GBS have been working on the suspension se
 
 Another thing I will be doing on my car is fitting some doors! They don't always look right on a seven style sports car, but the buffeting from the wind when only going moderately fast was a bit overpowering.
 
-![Mazda MX-5]({{ site.url }}/images/Factory-car.jpg)
+![GBS Mazda Zero]({{ site.url }}{{ site.baseurl }}/images/Factory-car.jpg)
 
 This was a glimpse in to the future of what my car will hopefully be like if I ever get round to finishing it. If it turns out to be half as much fun to drive as the factory demonstrator, needless to say I will be very happy...
 

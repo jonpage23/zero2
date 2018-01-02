@@ -1,7 +1,7 @@
 ---
 title: "Differential, Brakes, Time to catch up"
 categories:
-  - GBS Zero
+  - Zero
 tags:
   - differential
   - brakes
@@ -12,9 +12,9 @@ Again, it's been a long time since my last post. Time for a bit of a catch up.
 
 First part fitted to the chassis is the differential. This thing has taken the longest and been the most painful donor part to de-rust and clean up, so it's with some satisfaction that I now have it attached to the car. I had to drill 3 holes in the top bracket in line with the plate on the chassis. It sits slightly below the mounting plate and needs to be packed out with washers when fitted which made marking the holes tricky. I got it just about right and only needed to file a little bit around each one to make it fit. I may need to look at the underneath of the bracket to ensure there is enough contact between the washers and the bracket for it to be secure. Right now it is solidly on there, but i have noticed that I missed a bit when painting it - no-one could ever see it but I'll know it's there... Do I take it off and re-paint it? Or leave it on and try and forget it? I think I can forget it.
 
-![Mazda MX-5]({{ site.url }}/images/Diff-fitted1.jpg)
+![Differential]({{ site.url }}{{ site.baseurl }}/images/Diff-fitted1.jpg)
 
-![Mazda MX-5]({{ site.url }}/images/Diff-fitted2.jpg)
+![Differential]({{ site.url }}{{ site.baseurl }}/images/Diff-fitted2.jpg)
 
 The kit contains all the suspension wishbones and associated bushes and crush tubes. Given my complete ignorance of many mechanical engineering principles prior to the start of the project, I don't mind admitting that I didn't know the real purpose of the crush tubes and had assumed that these should fit tightly in the bushes and the movement was on the bolts. Not so. The crush tubes are there to be 'crushed' into the bracket on the chassis and remain rigid while the nylon bushes rotate around them. It all make perfect sense now of course, thanks to Richard from GBS for pointing it out.
 
@@ -26,8 +26,8 @@ Further work on the wheel hubs and uprights have now seen them painted nicely in
 
 Further on and I have started fitting the brake lines. This really signifies the start of the main part of the build and it's good to see some sort of real progress at last. As lines leave the master cylinder and spread out around the chassis, the rear line needs to cross over with the front ones which is only really practical as they enter the tunnel. I have made the routing as neat as I can, but still having them cross there is a little untidy. When they are all secured down I think it should be OK. The clutch cylinder is very close to the brake cylinder so the rear line needs to route around it which makes for some interesting bends. At the recent Donnington kit car show I collared Simon from GBS to talk about how best to go about running brake lines. Turns out the tools I bought to supposedly bend brake lines neatly are not as good as gently forming the bends by hand. I have taken his advise and am very pleased with the result. Many thanks Simon.
 
-![Mazda MX-5]({{ site.url }}/images/Brake-lines1.jpg)
+![Brakes]({{ site.url }}{{ site.baseurl }}/images/Brake-lines1.jpg)
 
-![Mazda MX-5]({{ site.url }}/images/Brake-lines2.jpg)
+![Brakes]({{ site.url }}{{ site.baseurl }}/images/Brake-lines2.jpg)
 
 I have just put in a big order with Kit Spares so I have shocks, fuel tank, fuel lines and other fuel system components on the way. I also went to the factory on Friday to test drive the factory built Mazda based Zero... Review of that coming in the next day or so, but suffice to say if you are thinking about buying a kit car - get up there and drive it. Your decision will probably make itself.
