@@ -4,7 +4,7 @@ title:  "This is my first post on the Centrarium theme Jekyll site"
 date:   2018-01-02 19:43:59
 author: Jon
 categories: Zero
-tags:	zero welcome
+tags:	GBS zero welcome
 cover:  "/assets/instacode.png"
 ---
 

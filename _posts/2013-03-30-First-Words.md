@@ -1,7 +1,7 @@
 ---
 title: "First Words..."
 categories:
-  - GBS Zero
+  - Zero
 tags:
   - GBS Zero
   - Kit car

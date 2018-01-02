@@ -1,7 +1,7 @@
 ---
 title: "Decisions"
 categories:
-  - GBS Zero
+  - Zero
 tags:
   - GBS
   - factory
