@@ -10,10 +10,11 @@ exclude:
 # Site settings
 title: GBS Zero build project
 subtitle: "The build diary for my GBS Zero sports car"
-email: blcentra@gmail.com
+email:
 name: Jon Page
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
+description: The build diary for my GBS Zero sports car
+#  A simple yet classy theme for your Jekyll website or blog.
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
