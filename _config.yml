@@ -8,8 +8,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "JPPP A simple yet classy theme for your Jekyll website or blog"
+title: GBS Zero build project
+subtitle: "The build diary for my GBS Zero sports car"
 email: blcentra@gmail.com
 name: Jon Page
 description: >
