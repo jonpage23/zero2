@@ -39,6 +39,6 @@ Whilst I have the engine and gearbox apart it makes sense to change the clutch. 
 
 ![MX-5 Engine]({{ site.url }}{{ site.baseurl }}/images/engine1.jpg)
 
-![MX-5 Engine]({{ site.url }}{{ site.baseurl }}/images/engine2.jpg)
+![MX-5 Engine]({{ site.url }}{{ site.baseurl }}/images/engine3.jpg)
 
 So I have plenty to do and it’s all shaping up quite nicely as an exciting project. I hope the ebay community need some Mazda bits.
