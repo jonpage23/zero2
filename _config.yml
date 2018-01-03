@@ -20,7 +20,7 @@ description: My GBS Zero sports car
 # root of your server.
 baseurl: "/zero2" # the subpath of your site, e.g. /blog/
 url: "http://jonpage23.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/zero-wide.jpg"
 # logo: "/assets/logo.png"
 
 # Build settings
