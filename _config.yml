@@ -12,7 +12,7 @@ title: GBS Zero build project
 subtitle: "The build diary for my GBS Zero sports car"
 email:
 name: Jon Page
-description: My GBS Zero sports car
+description: 
 #  A simple yet classy theme for your Jekyll website or blog.
 
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -39,11 +39,11 @@ theme: centrarium
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: Zero
+    desc: "All about the Zero."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+#  - cat: dummy
+#    desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 # Social icons and sharing options
 #
