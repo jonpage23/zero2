@@ -25,7 +25,7 @@ Basically, the pads and disk will not fit inside the caliper. They are about a m
 
 It seems the complicated self-adjusting mechanism embedded in the calipers has a tendency to self-adjust itself to a point where it cannot be adjusted back. I won't pretend to understand how this can happen and rather than spending hours, or probably months, working out what can be done about it, I have purchased some shiny new ones, and pained them orange.!
 
-[Rear brake]({{ site.url }}{{ site.baseurl }}/images/rear-brake-fitted.jpg)
+![Rear brake]({{ site.url }}{{ site.baseurl }}/images/rear-brake-fitted.jpg)
 
 Fitting them and bleeding the system was relatively easy when you have someone to help who knows what they are doing. More thanks to my brother for giving up his weekend, rewarded only with all the curry and beer he could consume (and he can consume a lot).
 
@@ -33,7 +33,7 @@ Fitting them and bleeding the system was relatively easy when you have someone t
 
 One problem we had was a fracture in one of the copper brake lines. Copper with work-harden, meaning it becomes more brittle as it is bent. The line that failed was the first one I fitted to the car, and it is certainly possible I worked it a lot more than it should have suffered as I tried to route it round the chassis. It was the first brake line I have ever fitted after all!
 
-![Brake pipe crack]({{ site.url }}{{ site.baseurl }}/images/Brake-pipe-crack.jpg)
+![Brake pipe crack]({{ site.url }}{{ site.baseurl }}/images/Brake-pipe-crack.JPG)
 
 New role of copper pipe purchased and fitted.
 
