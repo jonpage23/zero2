@@ -11,7 +11,7 @@ I decided to try to save a bit of money by doing the wiring for the car myself. 
 
 Starting at the back I have a loom that incorporates the brake, indicator, reverse, fog, and tail lights, along with the fuel level sender. This is wired back the the fuses and relays mounted on the engine side of the firewall.
 
-![Fuse board]({{ site.url }}{{ site.baseurl }}/images/fuse-board.jpg)
+![Fuse board]({{ site.url }}{{ site.baseurl }}/images/Fuse-board.jpg)
 
 The loom that runs to the front of the car connects the headlights, indicators, fan, and horn. These are all terminated on connector blocks ready to be linked to the lights when installed. The engine obviously requires a lot of wiring, but this will be kept separate.
 
